@@ -1,0 +1,6 @@
+name: Muslim
+author: AkechiSatori
+description: 一个让服务器变清真的插件
+main: io.menhera.muslim.main
+version: 1.00
+api-version: 1.13

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Muslim:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Muslim_jar</output-path>
+    <root id="archive" name="Muslim.jar">
+      <element id="module-output" name="Muslim" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/config.yml" />
+    </root>
+  </artifact>
+</component>
